@@ -54,3 +54,19 @@ Hello World
 
 ### Input file (output.txt):
 H|e|l|l|o| |W|o|r|l|d
+
+
+
+## Use Case
+
+The `PipeSeparatedLetters` utility can be used in various text-processing and educational scenarios.  
+It transforms normal text into a character-delimited format, where each letter is separated by a pipe (`|`).  
+
+### Typical applications include:
+- **Educational Tools:** Creating spelling or phonetic learning materials where each letter needs to be clearly visible (e.g., `C|A|T`).
+- **Text Pre-Processing:** Preparing datasets for OCR, NLP, or AI models that require token-level or letter-level input.
+- **Debugging and Quality Checks:** Inspecting text files for hidden or non-printable characters by visualizing each character separately.
+- **Publishing and Design:** Preparing text for import into layout or design tools (such as QuarkXPress) where per-character styling or spacing is needed.
+- **Data Integration or Parsing:** Generating delimited text suitable for systems that process data on a per-character basis.
+
+This small utility is especially helpful whenever **character-level precision or visualization** of textual data is required.
