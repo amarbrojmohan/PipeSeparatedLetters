@@ -15,13 +15,11 @@ For every line in the input file:
 - The transformed line is then written to an output file.  
 
 Example:
-input.txt --> 
-Hello
-World
+input.txt 
+Hello World
 
-output.txt -->
-H|e|l|l|o
-W|o|r|l|d
+output.txt
+H|e|l|l|o| |W|o|r|l|d
 
 
 ---
